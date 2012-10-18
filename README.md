@@ -39,7 +39,7 @@ repo sync -j16
 ```
 
 ### Build
-Make sure we're in ~/cm9...
+Make sure we're in ~/cm10...
 ```bash
 cd ~/cm10
 ```
